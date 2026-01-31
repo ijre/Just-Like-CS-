@@ -1,0 +1,2 @@
+VScript mod that adds a 1 in 7 chance for Louis to say the "just like counter-strike" line when picking up CS:S weapons.
+Read [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3657047103) for more details.

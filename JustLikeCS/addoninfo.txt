@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+  AddonSteamAppID     550
+
+  AddonTitle          "Just Like CS!"
+  AddonDescription    "Louis will randomly comment on being reminded of Counter-Strike when equipping CS:S weapons."
+  AddonAuthor         "ijre"
+  AddonAuthorSteamID  "https://steamcommunity.com/id/TheBestBaconBits/"
+  AddonVersion        "0.0.0.1"
+
+  AddonContent_Script 1
+}
